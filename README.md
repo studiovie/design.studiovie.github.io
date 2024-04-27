@@ -1,1 +1,1 @@
-# design.studiovie.github.io
+# studiovie.github.io
